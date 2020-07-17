@@ -3,4 +3,3 @@
 This is the source code for the https://github.com/RedHat-Middleware-Workshops/spring2quarkus-workshop-labs[Spring to Quarkus Workshop].
 
 This workshop focuses on how to modernize https://spring.io/projects/spring-boot[Spring Boot] to https://quarkus.io[Quarkus], supersonic, subatomic container-native Java.
-
